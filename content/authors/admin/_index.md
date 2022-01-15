@@ -23,7 +23,7 @@ interests:
 - Natural Language Processing
 
 # Education to show in About widget
-education: Education, Certification, & Training
+education: 
   courses:
   - course: Data Scientist Certification
     institution: The Data Incubator
