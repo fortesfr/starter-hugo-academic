@@ -20,12 +20,9 @@ feature:
 - name: Python
 - description: 90%
   icon: r-project
-  # icon_pack: fab
-  name: R
-- description: 90%
-  icon: r-project
   icon_pack: fab
-  name: Spark
+  name: R
+- name: Spark
 - description: 100%
   icon: chart-line
   icon_pack: fas
