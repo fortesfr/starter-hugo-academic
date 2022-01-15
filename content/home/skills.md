@@ -20,7 +20,7 @@ feature:
 - name: Python
 - description: 90%
   icon: r-project
-  icon_pack: fab
+  # icon_pack: fab
   name: R
   - description: 90%
   icon: r-project
