@@ -21,5 +21,5 @@ author: admin
 
 # FF background change
 
-#background: image parallax
+background: image parallax
 ---
