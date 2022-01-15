@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Francisca Fortes
+title: F Fortes
 
 # Is this the primary user of the site?
 superuser: true
