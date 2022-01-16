@@ -16,21 +16,24 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- name: TensorFlow
 - name: Python
-- description: 90%
-  icon: r-project
+  icon: python
+  icon_pack: fab
+- name: Tensorflow
+  icon: sticker-mule
+  icon_pack: fab
+- icon: r-project
   icon_pack: fab
   name: R
 - name: Spark
-- description: 100%
-  icon: chart-line
+  icon: sticker-mule
+  icon_pack: fab
+- icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Data Science for Business
+- icon: palette
   icon_pack: fas
-  name: Photography
+  name: Creative Design
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

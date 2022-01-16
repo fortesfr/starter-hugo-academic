@@ -32,11 +32,11 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Delivered actionable insights and solutions to support executive leadership’s decision making.
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Revitalized quarterly financial reports by illuminating digestible performance metrics with creative design. 
+        * Communicated across departments to define performance metrics and maximize evaluation of program effectiveness and overall Fund performance.
+        * Integrated complexities, such as past investment structures, accounting transformations, and systems’ performance differences, into automated reports and dashboards to provide insights at scale to public, organization, and CEO.
         
   - title: Custody Analyst
     company: Citco Global Securities (Canada) ltd.
@@ -45,7 +45,11 @@ experience:
     location: Toronto
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Led and revamped onboarding process for Fund of Funds (FoF) clients while managing team of two.Taught electronic engineering and researched semiconductor physics.
+          * Analysing
+          * Modelling
+          * Deploying
 
   - title: Global Equity Research Analyst (Co-Op)
     company: Sentry Investments
@@ -55,7 +59,7 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Identified investment opportunities by evaluating 700+ equities with Bloomberg terminal qualitative and quantitative data.
         
         * Analysing
         * Modelling

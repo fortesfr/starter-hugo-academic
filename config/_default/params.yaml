@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: strawberry
+theme: minimal
 day_night: true
 font: my_font
-font_size: M
+font_size: L
 
 # SEO
 
@@ -46,11 +46,11 @@ contact_links:
   #   icon_pack: fab
   #   name: Skype Me
   #   link: 'skype:echo123?call'
-  - icon: keybase
+  - icon: comments
     icon_pack: fab
     name: Let's Collaborate
     link: 'https://calendly.com'
-  - icon: keybase
+  - icon: comments
     icon_pack: fab
     name: Individual Contributor Enquiries
     link: 'https://calendly.com'
